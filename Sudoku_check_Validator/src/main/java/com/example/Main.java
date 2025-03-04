@@ -17,7 +17,6 @@ public class Main {
     };
     public static void main( String[] args ) throws ExecutionException, InterruptedException {
         SudokuManager sudokuManager=new SudokuManager(sudoku);
-        System.out.println("Single-threaded validation: " + sudokuManager.isValidSudokuSingleThreaded());
         System.out.println("Multi-threaded validation: " + sudokuManager.isValidSudokuMultiThreaded());
     }
 }
