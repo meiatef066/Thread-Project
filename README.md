@@ -64,12 +64,12 @@ Multi-threaded validation: true
 ```
 
 ---
-## Future Improvements 🚀
+## Future Improvements 
 - Add support for validating Sudoku puzzles dynamically from user input.
-- Optimize memory usage by reducing object allocations.
+- Add GUI Or CLI 
 - Implement logging for better debugging.
 
 ---
 ## License
-MIT License © 2025 Mai
+MIT License © 2025 
 
